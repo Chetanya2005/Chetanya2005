@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://userhttps:-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 📫 How to reach me **chetanya0521@gmail.com**
+- 📫 How to reach me **chetanya2205@gmail.com**
 
 - ⚡ Fun fact **I think i am good entertainer.😊**
 
